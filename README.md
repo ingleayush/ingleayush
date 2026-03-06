@@ -56,14 +56,6 @@ Built an interactive **Power BI dashboard** to analyze:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-
----
-
 ## 🔗 Connect With Me
 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 Email: ayushingle123@gmail.com
