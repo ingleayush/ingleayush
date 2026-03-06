@@ -46,14 +46,6 @@ Performed detailed analysis on dataset including:
 - Passenger class analysis
 - Correlation analysis
 
-### Sales Performance Dashboard
-Built an interactive **Power BI dashboard** to analyze:
-- Revenue trends
-- Profit margins
-- Regional sales performance
-- Product performance
-- Customer acquisition trends
-
 ---
 
 ## 🔗 Connect With Me
