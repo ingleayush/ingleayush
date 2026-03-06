@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**ingleayush/ingleayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst  
+📊 Skilled in Python, Power BI, SQL  
+📈 Interested in Data Visualization and Data-Driven Decision Making  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Data Analysis
+- Data Visualization
+- Pandas & NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Exploratory Data Analysis (EDA)
+- Sales Performance Dashboard (Power BI)
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/-ayush-ingle
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
