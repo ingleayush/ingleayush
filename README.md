@@ -59,6 +59,6 @@ Built an interactive **Power BI dashboard** to analyze:
 ## 🔗 Connect With Me
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Ingle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Ingle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-ayush-ingle)
 
 [![Email](https://img.shields.io/badge/Email-ayushingle123%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ayushingle123@gmail.com)
